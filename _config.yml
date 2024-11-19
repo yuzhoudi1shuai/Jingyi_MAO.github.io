@@ -12,7 +12,7 @@ title                    : "Jingyi MAO / PhD student"
 title_separator          : "-"
 name                     : &name "毛璟仪"
 description              : &description "一只聪明机智的毛毛"
-url                      : https://jingyi_MAO.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Jingyi_MAO.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "https://Jingyi_MAO.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
