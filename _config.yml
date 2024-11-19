@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "毛璟仪"
 description              : &description "一只聪明机智的毛毛"
 url                      : https://jingyi_MAO.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://jingyi_MAO.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "../images/mjy.png"
-  name             : "毛璟仪"
+  name             : "Jingyi MAO (毛璟仪)"
   pronouns         : # example: "she/her"  
   bio              : "不会书法的小提琴手不是好科研儿"
   location         : "Earth"
