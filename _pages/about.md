@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Jingyi's World"
+excerpt: "Welcome to my world"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +10,7 @@ redirect_from:
 
 I'm a PhD student in South China University of Technology.
 My research interest includes computer vision, intelligent traffic system, artificial intelligence.
-[Emial](ctjingyimao@mail.scut.edu.cn) / [Github](http://github.com/Jingyi_MAO) / [WeChat](../images/mjy.jpg)
+[Emial](ctjingyimao@mail.scut.edu.cn) / [Github](http://github.com/Jingyi_MAO) / [WeChat](../images/mjy.jpg) / [CSDN](https://blog.csdn.net/2403_87584552?spm=1000.2115.3001.5343)
 
 A data-driven personal website
 ======
