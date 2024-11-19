@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student in South China University of Technology.
 My research interest includes computer vision, intelligent traffic system, artificial intelligence.
-[Emial](ctjingyimao@mail.scut.edu.cn) / [Github](http://github.com/jingyi_MAO) / [WeChat](../images/mjy.jpg)
+[Emial](ctjingyimao@mail.scut.edu.cn) / [Github](http://github.com/Jingyi_MAO) / [WeChat](../images/mjy.jpg)
 
 A data-driven personal website
 ======
